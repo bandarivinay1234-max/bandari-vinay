@@ -1,0 +1,8 @@
+{
+  "name": "Student Progress Portal",
+  "description": "Secure dashboard for student course progress, mastery levels, and daily practice quiz results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
